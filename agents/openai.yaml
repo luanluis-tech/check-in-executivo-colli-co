@@ -1,0 +1,4 @@
+interface:
+  display_name: "Check-in Executivo Colli&Co"
+  short_description: "Cria check-ins completos no padrão Colli&Co"
+  default_prompt: "Use $check-in-executivo-colli-co para construir o check-in deste projeto; primeiro confirme se ele é quinzenal ou mensal e, depois, consulte dados e contextos recentes, sinalizando qualquer lacuna."
